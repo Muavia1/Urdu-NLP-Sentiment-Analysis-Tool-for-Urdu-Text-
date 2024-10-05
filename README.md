@@ -1,5 +1,6 @@
 # Urdu-NLP-Sentiment-Analysis-Tool-for-Urdu-Text-
 NLP pipeline to analyze Urdu social media posts, classifying them into positive, negative, or neutral sentiments. The tool will serve multiple purposes, such as helping brands understand customer feedback, influencers gauging audience engagement, and businesses assessing public sentiment toward their products and services.
+---------------------------------------------
 Phase 1: Text Preprocessing for Urdu Text
 1.	Stopword Removal:
 o	Develop a custom list of Urdu stopwords (e.g., "اور", "یہ", "کہ"). Write a function to remove these stopwords from your dataset of social media posts.
